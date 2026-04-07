@@ -2,11 +2,6 @@
   
 ## Hi there 👋
 
-# Gunel Aghakishiyeva
-
-### AI Engineer | Data Science at core  
-🤖 Agentic analytics & 🔍 Explainable AI
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
