@@ -44,7 +44,10 @@
 <h2 align="center">focus areas</h2>
 
 <p align="center">
-  – agentic analytics &nbsp;·&nbsp; – product data science &nbsp;·&nbsp; – explainable AI &nbsp;·&nbsp; – trustworthy AI
+  – agentic analytics <br>
+  – product data science <br> 
+  – explainable AI  <br>
+  – trustworthy AI  <br>
 </p>
 
 <br/>
