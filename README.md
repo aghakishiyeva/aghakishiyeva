@@ -21,10 +21,10 @@ building and evaluating models that inform product and system decisions
 
 
 <p align="center">
-- agentic analytics <br>
-- product data science <br>
-- explainable AI <br>
-- trustworthy AI <br>
+• agentic analytics • <br>
+• product data science • <br>
+• explainable AI • <br>
+• trustworthy AI • <br>
 </p>
 
 ## connect with me
