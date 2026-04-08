@@ -78,22 +78,22 @@
   <table>
     <tr>
       <td align="center" width="240">
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">
-          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner" />
+        <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+          <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner" />
         </a>
         <br/><br/>
         <strong>AWS Cloud Practitioner</strong><br/>
         <em>Cloud fundamentals & AWS core services</em><br/><br/>
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify</a>
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify</a>
       </td>
       <td align="center" width="240">
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">
-          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-AI-Practitioner_badge.3b0ade6b4f0374d3ad5ab54a9b7b9aa8b37e2ced.png" width="100" alt="AWS AI Practitioner" />
+        <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
+          <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS AI Practitioner" />
         </a>
         <br/><br/>
         <strong>AWS AI Practitioner</strong><br/>
         <em>AI/ML & responsible AI on AWS</em><br/><br/>
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify</a>
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify</a>
       </td>
     </tr>
   </table>
