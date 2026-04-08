@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=6DD19C&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/aghakishiyeva?label=Followers&style=flat-square&color=6DD19C" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/aghakishiyeva?label=Stars&style=flat-square&color=6DD19C" />
+</p>
 
 <p align="center">
   <a href="http://linkedin.com/in/aghakishiyeva/">
@@ -22,15 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=6DD19C&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/aghakishiyeva?label=Followers&style=flat-square&color=6DD19C" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/aghakishiyeva?label=Stars&style=flat-square&color=6DD19C" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/open%20to%20work-6DD19C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/open%20to%20work-94FFD4?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/open%20to%20collaborate-94FFD4?style=flat-square&logoColor=white" />
 </p>
@@ -77,9 +76,9 @@
 <h2 align="center">currently</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/working%20on-6DD19C?style=flat-square" />
+  <img src="https://img.shields.io/badge/working%20on-94FFD4?style=flat-square" />
   &nbsp;first agentic analytics project<br/><br/>
-  <img src="https://img.shields.io/badge/learning-46B47F?style=flat-square" />
+  <img src="https://img.shields.io/badge/learning-94FFD4?style=flat-square" />
   &nbsp;using AI as a force multiplier (prompting, agents, and workflows that 10x output)
 </p>
 
