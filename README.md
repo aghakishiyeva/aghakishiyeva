@@ -13,7 +13,7 @@
 
 ## about me
 <p align="center">
-**data scientist at core**  
+data scientist at core<br>
 building and evaluating models that inform product and system decisions
 </p>
 
