@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:46B47F,50:6DD19C,100:94FFD4&height=120&section=header" width="100%">
 
 <h1 align="center">Hi, I'm Günel (gyu-nel)&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
+<!-- Quote -->
+<p align="center">
+  <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
@@ -84,10 +88,6 @@
 
 <br/>
 
-<!-- Quote -->
-<p align="center">
-  <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
-</p>
 
 <br/>
 
