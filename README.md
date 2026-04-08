@@ -1,15 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:46B47F,50:6DD19C,100:94FFD4&height=120&section=header" width="100%">
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h1 align="center">Hi, I'm Günel (gyu-nel)&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
-<!-- Quote -->
+
+<!-- QUOTE · change text between <em> tags -->
 <p align="center">
   <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
 </p>
 
+<!-- TYPING ANIMATION · edit "lines=" to change rotating text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     STATS & BADGES                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- PROFILE STATS · auto-updates, no changes needed -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=6DD19C&style=flat-square&label=Profile+Views" />
   &nbsp;
@@ -18,6 +29,7 @@
   <img src="https://img.shields.io/github/stars/aghakishiyeva?label=Stars&style=flat-square&color=6DD19C" />
 </p>
 
+<!-- SOCIAL LINKS · update href values to change links -->
 <p align="center">
   <a href="http://linkedin.com/in/aghakishiyeva/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,14 +44,12 @@
   </a>
 </p>
 
+<!-- STATUS BADGES & EMAIL · update mailto: to change email -->
 <p align="center">
   <img src="https://img.shields.io/badge/open%20to%20work-94FFD4?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/open%20to%20collaborate-94FFD4?style=flat-square&logoColor=white" />
   &nbsp;
-</p>
-
-<p align="center">
   <a href="mailto:aghakishiyevag@gmail.com">
     <img src="https://img.shields.io/badge/email%20me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -47,9 +57,13 @@
 
 <br/>
 
-<!-- About Me -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">about me</h2>
 
+<!-- UNIVERSITY LOGOS · update href and img src to change schools -->
 <p align="center">
   <a href="https://www.unistra.fr/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Universit%C3%A9_de_Strasbourg.svg/3840px-Universit%C3%A9_de_Strasbourg.svg.png" height="50" alt="Université de Strasbourg" />
@@ -60,6 +74,7 @@
   </a>
 </p>
 
+<!-- EDUCATION TEXT · update degree and university names here -->
 <p align="center">
   <strong>B.Eng</strong> · Université de Strasbourg &nbsp;|&nbsp; <strong>M.S. Data Science</strong> · Duke University
 </p>
@@ -71,9 +86,13 @@
 
 <br/>
 
-<!-- Focus Areas -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FOCUS AREAS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">focus areas</h2>
 
+<!-- FOCUS LIST · add or remove lines to update focus areas -->
 <p align="center">
   – agentic analytics <br>
   – product data science <br> 
@@ -83,9 +102,13 @@
 
 <br/>
 
-<!-- Currently -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CURRENTLY                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">currently</h2>
 
+<!-- CURRENTLY · update text after &nbsp; to change status -->
 <p align="center">
   <img src="https://img.shields.io/badge/working%20on-94FFD4?style=flat-square" />
   &nbsp;first agentic analytics project<br/><br/>
@@ -95,14 +118,15 @@
 
 <br/>
 
-
 <br/>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CERTIFICATIONS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Certifications -->
 <h2 align="center">certifications</h2>
 
+<!-- CERTS · add new <td> blocks to add certifications -->
 <div align="center">
   <table>
     <tr>
@@ -130,9 +154,13 @@
 
 <br/>
 
-<!-- Tech Stack -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">tech stack</h2>
 
+<!-- TECH STACK · add new <td> blocks to add tools/languages -->
 <div align="center">
   <table>
     <tr>
@@ -171,23 +199,33 @@
 
 <br/>
 
-<!-- GitHub Stats -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">github stats</h2>
 
+<!-- GITHUB STATS · auto-updates, no changes needed -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aghakishiyeva&theme=transparent&ring=6DD19C&fire=6DD19C&currStreakLabel=6DD19C&sideLabels=6DD19C&dates=6DD19C&border=6DD19C&hide_longest_streak=true" height="150" />
 </div>
 
 <br/>
 
-<!-- Snake -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              SNAKE · auto-updates via GitHub Action             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/aghakishiyeva/aghakishiyeva/output/github-contribution-grid-snake-dark.svg" alt="github-snake" />
 </div>
 
 <br/>
 
-<!-- Latest Posts -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--           SUBSTACK · auto-updates via GitHub Action            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">latest from substack</h2>
 
 <!-- BLOG-POST-LIST:START -->
@@ -195,11 +233,15 @@
 
 <br/>
 
-<!-- Languages -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       LANGUAGES                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">languages</h2>
 
+<!-- LANGUAGES · add or remove flag + name pairs -->
 <p align="center">
-  Azerbaijani &nbsp;·&nbsp; English &nbsp;·&nbsp; Turkish &nbsp;·&nbsp; French
+  🇦🇿 Azerbaijani &nbsp;·&nbsp; 🇬🇧 English &nbsp;·&nbsp; 🇹🇷 Turkish &nbsp;·&nbsp; 🇫🇷 French
 </p>
 
 <br/>
@@ -207,14 +249,23 @@
 
 <br/>
 
-<!-- Now Playing -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      NOW PLAYING                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">now playing 🎧</h2>
 
+<!-- NOW PLAYING · update href with Spotify track link, update badge text with song — artist -->
 <div align="center">
   <a href="https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S">
     <img src="https://img.shields.io/badge/Far%20From%20Any%20Road%20—%20The%20Handsome%20Family-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </div>
 
 <br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94FFD4,50:6DD19C,100:46B47F&height=120&section=footer" width="100%">
