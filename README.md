@@ -14,7 +14,7 @@
 ## about me
 <p align="center">
 <strong>data scientist</strong> at core<br>
-building, evaluating, iterating
+building → evaluating → learning → iterating
 </p>
 
 ## focus areas
