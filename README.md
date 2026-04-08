@@ -65,10 +65,11 @@
 
 <!-- Currently -->
 <h2 align="center">currently</h2>
-
 <p align="center">
-   &nbsp;<strong>working on</strong> first agentic analytics project<br/>
-   &nbsp;<strong>learning</strong> using AI as a force multiplier (prompting, agents, and workflows that 10x output)
+  <img src="https://img.shields.io/badge/working%20on-6DD19C?style=flat-square" />
+  &nbsp;first agentic analytics project<br/><br/>
+  <img src="https://img.shields.io/badge/learning-46B47F?style=flat-square" />
+  &nbsp;using AI as a force multiplier (prompting, agents, and workflows that 10x output)
 </p>
 
 <br/>
