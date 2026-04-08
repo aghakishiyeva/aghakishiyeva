@@ -1,11 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:46B47F,50:6DD19C,100:94FFD4&height=120&section=header" width="100%">
 
 <h1 align="center">Hi, I'm Günel (gyu-nel)&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
-<!-- Quote -->
-<p align="center">
-  <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
@@ -88,6 +83,12 @@
 </p>
 
 <br/>
+
+<!-- Quote -->
+<p align="center">
+  <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
+</p>
+
 <br/>
 
 <br/>
@@ -167,9 +168,9 @@
 <h2 align="center">github stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghakishiyeva&show_icons=true&theme=transparent&title_color=6DD19C&icon_color=6DD19C&text_color=94FFD4&border_color=6DD19C" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aghakishiyeva&show_icons=true&theme=transparent&title_color=6DD19C&icon_color=6DD19C&text_color=94FFD4&border_color=6DD19C&count_private=true" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghakishiyeva&layout=compact&theme=transparent&title_color=6DD19C&text_color=94FFD4&border_color=6DD19C" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aghakishiyeva&theme=transparent&ring=6DD19C&fire=6DD19C&currStreakLabel=94FFD4&sideLabels=94FFD4&dates=6DD19C&border=6DD19C" height="150" />
 </div>
 
 <br/>
