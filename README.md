@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:46B47F,50:6DD19C,100:94FFD4&height=120&section=header" width="100%">
 
 <h1 align="center">Hi, I'm Günel Aghakishiyeva&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+Engineer;Data+Science+at+core;Agentic+Analytics;Explainable+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=AI+Engineer;Data+Science+at+core;Agentic+Analytics;Explainable+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=6DD19C&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
@@ -22,9 +22,9 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
 
 <div align="center">
 
-| LinkedIn | Substack | Google Scholar |
-| --- | --- | --- |
-| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Faghakishiyeva%2F&subtitle=@aghakishiyeva&size=square)](http://linkedin.com/in/aghakishiyeva/) | [![Substack](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fsubstack.com%2F%40aghakishiyeva&subtitle=@aghakishiyeva&size=square)](https://substack.com/@aghakishiyeva) | [![Google Scholar](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGooglescholar&subtitle=Research+Profile&size=square)](https://scholar.google.com/citations?hl=en&user=lCgbr1QAAAAJ) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/aghakishiyeva/)&nbsp;&nbsp;
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@aghakishiyeva)&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=lCgbr1QAAAAJ)
 
 </div>
 
@@ -62,16 +62,36 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" /><br>NumPy
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" /><br>Pandas
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="65" height="65" /><br>scikit-learn
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" /><br>SQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /><br>AWS
+      </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /><br>Docker
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" /><br>FastAPI
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -80,18 +100,26 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
 
 <div align="center">
 
-```
-🎵  Far From Any Road
-    The Handsome Family
+**🎙️ Top Artists**
 
-    ▶ ━━━━━━━━━━━━━━━━━━━━━━━  3:48
-    ♡  Add to favorites          ···
-```
+| 🎤 Niall Horan | 🎤 Coldplay | 🎤 Harry Styles | 🎤 Orkhan Zeynalli | 🎤 Portishead |
+|:---:|:---:|:---:|:---:|:---:|
 
-> *"From the dusty mesa, her looming shadow grows..."*
+<br/>
+
+**Now Playing 🎧**
+
+```
+┌─────────────────────────────────────────────────┐
+│  🎵  Far From Any Road — The Handsome Family     │
+│                                                  │
+│  ▶  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  3:48       │
+│  🔀  shuffle      🔁  repeat      ♡  like        │
+└─────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:94FFD4,50:6DD19C,100:46B47F&height=120&section=footer" width="100%">
