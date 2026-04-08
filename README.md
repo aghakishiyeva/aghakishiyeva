@@ -241,7 +241,7 @@
 
 <!-- LANGUAGES · add or remove flag + name pairs -->
 <p align="center">
-  🇦🇿 Azerbaijani &nbsp;·&nbsp; 🇬🇧 English &nbsp;·&nbsp; 🇹🇷 Turkish &nbsp;·&nbsp; 🇫🇷 French
+  Azerbaijani &nbsp;·&nbsp; English &nbsp;·&nbsp; Turkish &nbsp;·&nbsp; French
 </p>
 
 <br/>
