@@ -168,7 +168,7 @@
 <h2 align="center">github stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghakishiyeva&show_icons=false&hide=stars,commits,prs,issues&theme=transparent&title_color=6DD19C&text_color=94FFD4&border_color=6DD19C&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aghakishiyeva&theme=transparent&ring=6DD19C&fire=6DD19C&currStreakLabel=6DD19C&sideLabels=6DD19C&dates=6DD19C&border=6DD19C&hide_longest_streak=true" height="150" />
 </div>
 
 <br/>
