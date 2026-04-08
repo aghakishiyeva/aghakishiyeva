@@ -13,7 +13,7 @@
 
 <!-- TYPING ANIMATION · edit "lines=" to change rotating text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Applied+AI;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
