@@ -19,11 +19,13 @@ building and evaluating models that inform product and system decisions
 
 ## focus areas
 
+
+<p align="center">
 - agentic analytics
 - product data science
 - explainable AI  
 - trustworthy AI
-
+</p>
 
 ## connect with me
 
@@ -102,6 +104,8 @@ building and evaluating models that inform product and system decisions
 
 ## now playing 🎧
 
+<p align="center">
+
 ```
 ┌─────────────────────────────────────────────────┐
 │  🎵  Far From Any Road — The Handsome Family     │
@@ -109,6 +113,7 @@ building and evaluating models that inform product and system decisions
 │  ▶  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  3:48       │
 │  🔀  shuffle      🔁  repeat      ♡  like        │
 └─────────────────────────────────────────────────┘
+</p>
 ```
 
 </div>
