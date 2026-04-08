@@ -50,9 +50,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/open%20to%20collaborate-94FFD4?style=flat-square&logoColor=white" />
   &nbsp;
-</p>
-
-<p align="center">
   <a href="mailto:aghakishiyevag@gmail.com">
     <img src="https://img.shields.io/badge/email%20me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -220,8 +217,19 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aghakishiyeva/aghakishiyeva/output/github-contribution-grid-snake-dark.svg" alt="github-snake" />
+  <img src="https://raw.githubusercontent.com/aghakishiyeva/aghakishiyeva/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--           SUBSTACK · auto-updates via GitHub Action            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">latest from substack</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -233,7 +241,7 @@
 
 <!-- LANGUAGES · add or remove flag + name pairs -->
 <p align="center">
-  Azerbaijani &nbsp;·&nbsp; English &nbsp;·&nbsp; Turkish &nbsp;·&nbsp; French
+  🇦🇿 Azerbaijani &nbsp;·&nbsp; 🇬🇧 English &nbsp;·&nbsp; 🇹🇷 Turkish &nbsp;·&nbsp; 🇫🇷 French
 </p>
 
 <br/>
