@@ -155,17 +155,8 @@
 <h2 align="center">now playing 🎧</h2>
 
 <div align="center">
-  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_LINK_HERE">
-    <img src="https://novatorem-nu.vercel.app/api/spotify?background_color=0d1117&border_color=1DB954" alt="Spotify Now Playing" />
-  </a>
-  <br/><br/>
-  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_LINK_HERE">
+  <a href="https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S">
     <img src="https://img.shields.io/badge/Far%20From%20Any%20Road%20—%20The%20Handsome%20Family-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <br/>
-  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_LINK_HERE">
-    <img src="https://img.shields.io/badge/Open%20in%20Spotify%20Web%20Player-121212?style=flat-square&logo=spotify&logoColor=1DB954" />
-  </a>
 </div>
 
 <br/><br/>
