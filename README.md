@@ -201,7 +201,7 @@
 <h2 align="center">visitors</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/aghakishiyeva/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aghakishiyeva.aghakishiyeva&color=6DD19C" alt="Visitor Count" />
 </div>
 
 <br/>
