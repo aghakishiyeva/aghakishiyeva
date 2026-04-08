@@ -12,9 +12,10 @@
 
 
 ## about me
-
+<p align="center">
 **data scientist at core**  
 building and evaluating models that inform product and system decisions
+</p>
 
 ## focus areas
 
