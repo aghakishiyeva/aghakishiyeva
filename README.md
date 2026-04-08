@@ -13,7 +13,7 @@
 
 ## about me
 <p align="center">
-data scientist at core<br>
+<strong>data scientist</strong> at core<br>
 building, evaluating, iterating
 </p>
 
