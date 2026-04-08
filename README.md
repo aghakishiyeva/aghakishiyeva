@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://duke.edu/">
-    <img src="https://www.psychdegrees.org/wp-content/uploads/2019/04/duke-university.png" height="50" alt="Duke University" />
+    <img src="https://opuscollegeprep.com/wp-content/uploads/2025/04/duke-logo.webp" height="50" alt="Duke University" />
   </a>
 </p>
 
