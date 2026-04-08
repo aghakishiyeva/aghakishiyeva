@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.unistra.fr/">
-    <img src="https://langues.unistra.fr/fileadmin/upload/langues/images_site/vignette-unistra.png" height="50" alt="Université de Strasbourg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Universit%C3%A9_de_Strasbourg.svg/3840px-Universit%C3%A9_de_Strasbourg.svg.png" height="50" alt="Université de Strasbourg" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://duke.edu/">
