@@ -199,7 +199,7 @@
 <h2 align="center">languages</h2>
 
 <p align="center">
-  🇦🇿 Azerbaijani &nbsp;·&nbsp; 🇬🇧 English &nbsp;·&nbsp; 🇹🇷 Turkish &nbsp;·&nbsp; 🇫🇷 French
+  Azerbaijani &nbsp;·&nbsp; English &nbsp;·&nbsp; Turkish &nbsp;·&nbsp; French
 </p>
 
 <br/>
