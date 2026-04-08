@@ -67,8 +67,8 @@
 <h2 align="center">currently</h2>
 
 <p align="center">
-  🔬 &nbsp;<strong>working on</strong> &nbsp;→&nbsp; first agentic analytics project<br/>
-  📖 &nbsp;<strong>learning</strong> &nbsp;→&nbsp; using AI as a force multiplier — prompting, agents, and workflows that 10x output
+   &nbsp;<strong>working on</strong> first agentic analytics project<br/>
+   &nbsp;<strong>learning</strong> using AI as a force multiplier (prompting, agents, and workflows that 10x output)
 </p>
 
 <br/>
