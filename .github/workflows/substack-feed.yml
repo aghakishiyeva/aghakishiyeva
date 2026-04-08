@@ -9,10 +9,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://aghakishiyeva.substack.com/feed"
+          feed_list: "https://substack.com/@aghakishiyeva/feed"
           max_post_count: 3
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
