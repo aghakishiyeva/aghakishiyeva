@@ -164,7 +164,6 @@
 <h2 align="center">tech stack</h2>
 
 <!-- TECH STACK · add new <td> blocks to add tools/languages -->
-<!-- TECH STACK · add new <td> blocks to add tools/languages -->
 <div align="center">
   <table>
     <tr>
@@ -183,12 +182,6 @@
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" /><br>PyTorch
       </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="65" height="65" /><br>Matplotlib
-      </td>
-      <td align="center" width="100">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="65" height="65" /><br>Seaborn
-      </td>
     </tr>
     <tr>
       <td align="center" width="100">
@@ -205,12 +198,6 @@
       </td>
       <td align="center" width="100">
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="65" height="65" /><br>Claude Code
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65" /><br>Tableau
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="65" height="65" /><br>Power BI
       </td>
     </tr>
   </table>
