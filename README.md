@@ -2,11 +2,6 @@
 
 <h1 align="center">Hi, I'm Günel (gyu-nel)&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 
-<!-- Quote -->
-<p align="center">
-  <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
 </p>
@@ -17,6 +12,20 @@
   <img src="https://img.shields.io/github/followers/aghakishiyeva?label=Followers&style=flat-square&color=6DD19C" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/aghakishiyeva?label=Stars&style=flat-square&color=6DD19C" />
+</p>
+
+<p align="center">
+  <a href="http://linkedin.com/in/aghakishiyeva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://substack.com/@aghakishiyeva">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=lCgbr1QAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -65,6 +74,7 @@
 
 <!-- Currently -->
 <h2 align="center">currently</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/working%20on-6DD19C?style=flat-square" />
   &nbsp;first agentic analytics project<br/><br/>
@@ -74,25 +84,12 @@
 
 <br/>
 
+<!-- Quote -->
+<p align="center">
+  <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
+</p>
 
 <br/>
-
-<!-- Connect -->
-<h2 align="center">connect with me</h2>
-
-<p align="center">
-  <a href="http://linkedin.com/in/aghakishiyeva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://substack.com/@aghakishiyeva">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=lCgbr1QAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-</p>
 
 <br/>
 
