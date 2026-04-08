@@ -14,17 +14,17 @@
 ## about me
 <p align="center">
 data scientist at core<br>
-building and evaluating models that inform product and system decisions
+building, evaluating, iterating
 </p>
 
 ## focus areas
 
 
 <p align="center">
-• agentic analytics • <br>
-• product data science • <br>
-• explainable AI • <br>
-• trustworthy AI • <br>
+agentic analytics <br>
+product data science <br>
+explainable AI <br>
+trustworthy AI <br>
 </p>
 
 ## connect with me
