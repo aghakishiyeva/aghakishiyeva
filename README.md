@@ -164,6 +164,7 @@
 <h2 align="center">tech stack</h2>
 
 <!-- TECH STACK · add new <td> blocks to add tools/languages -->
+<!-- TECH STACK · add new <td> blocks to add tools/languages -->
 <div align="center">
   <table>
     <tr>
@@ -204,6 +205,12 @@
       </td>
       <td align="center" width="100">
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="65" height="65" /><br>Claude Code
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65" /><br>Tableau
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="65" height="65" /><br>Power BI
       </td>
     </tr>
   </table>
