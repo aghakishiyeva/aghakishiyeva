@@ -198,10 +198,12 @@
 <br/>
 
 <!-- Visitor Map -->
-<h2 align="center">visitors</h2>
+<h2 align="center">visitors map</h2>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aghakishiyeva.aghakishiyeva&color=6DD19C" alt="Visitor Count" />
+  <a href="https://clustrmaps.com/site/pTBbKk4BU-5y9epscvu2_7POwSmE6BEc_ePYvPm7Wq4">
+    <img src="https://clustrmaps.com/map_v2.png?d=pTBbKk4BU-5y9epscvu2_7POwSmE6BEc_ePYvPm7Wq4&cl=ffffff&w=400" />
+  </a>
 </div>
 
 <br/>
