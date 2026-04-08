@@ -86,7 +86,6 @@
         <em>Cloud fundamentals & AWS core services</em><br/><br/>
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify</a>
       </td>
-      <td width="60"></td>
       <td align="center" width="240">
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">
           <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-AI-Practitioner_badge.3b0ade6b4f0374d3ad5ab54a9b7b9aa8b37e2ced.png" width="100" alt="AWS AI Practitioner" />
