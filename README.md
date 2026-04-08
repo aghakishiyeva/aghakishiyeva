@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.unistra.fr/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Universit%C3%A9_de_Strasbourg_-_Armoiries.svg/200px-Universit%C3%A9_de_Strasbourg_-_Armoiries.svg.png" height="50" alt="Université de Strasbourg" />
+    <img src="https://langues.unistra.fr/fileadmin/upload/langues/images_site/vignette-unistra.png" height="50" alt="Université de Strasbourg" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://duke.edu/">
@@ -74,24 +74,24 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="280">
+      <td align="center" width="240">
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">
-          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Cloud Practitioner" />
+          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner" />
         </a>
         <br/><br/>
-        <strong>AWS Certified Cloud Practitioner</strong><br/>
-        <em>Foundational cloud concepts, AWS services,<br>security, billing & infrastructure</em><br/><br/>
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify Credential</a>
+        <strong>AWS Cloud Practitioner</strong><br/>
+        <em>Cloud fundamentals & AWS core services</em><br/><br/>
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify</a>
       </td>
       <td width="60"></td>
-      <td align="center" width="280">
+      <td align="center" width="240">
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">
-          <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de57f54a0cf3/image.png" width="110" alt="AWS AI Practitioner" />
+          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-AI-Practitioner_badge.3b0ade6b4f0374d3ad5ab54a9b7b9aa8b37e2ced.png" width="100" alt="AWS AI Practitioner" />
         </a>
         <br/><br/>
-        <strong>AWS Certified AI Practitioner</strong><br/>
-        <em>AI/ML fundamentals, generative AI,<br>responsible & trustworthy AI on AWS</em><br/><br/>
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify Credential</a>
+        <strong>AWS AI Practitioner</strong><br/>
+        <em>AI/ML & responsible AI on AWS</em><br/><br/>
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify</a>
       </td>
     </tr>
   </table>
@@ -153,16 +153,17 @@
 <h2 align="center">now playing 🎧</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /><br/><br/>
-  <table>
-    <tr>
-      <td align="left" style="padding: 12px 24px;">
-        &nbsp;🎵&nbsp; <strong>Far From Any Road</strong> &nbsp;—&nbsp; <em>The Handsome Family</em><br/><br/>
-        &nbsp;▶ &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━&nbsp; 3:48<br/><br/>
-        &nbsp;🔀 shuffle &nbsp;&nbsp;&nbsp; 🔁 repeat &nbsp;&nbsp;&nbsp; ♡ like
-      </td>
-    </tr>
-  </table>
+  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_LINK_HERE">
+    <img src="https://novatorem-nu.vercel.app/api/spotify?background_color=0d1117&border_color=1DB954" alt="Spotify Now Playing" />
+  </a>
+  <br/><br/>
+  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_LINK_HERE">
+    <img src="https://img.shields.io/badge/Far%20From%20Any%20Road%20—%20The%20Handsome%20Family-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://open.spotify.com/track/YOUR_SPOTIFY_TRACK_LINK_HERE">
+    <img src="https://img.shields.io/badge/Open%20in%20Spotify%20Web%20Player-121212?style=flat-square&logo=spotify&logoColor=1DB954" />
+  </a>
 </div>
 
 <br/><br/>
