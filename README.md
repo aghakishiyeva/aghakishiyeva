@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/github/stars/aghakishiyeva?label=Stars&style=flat-square&color=6DD19C" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/open%20to%20work-6DD19C?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/open%20to%20collaborate-94FFD4?style=flat-square&logoColor=white" />
+</p>
+
 <br/>
 
 <!-- About Me -->
@@ -21,11 +27,11 @@
 
 <p align="center">
   <a href="https://www.unistra.fr/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Universit%C3%A9_de_Strasbourg.svg/3840px-Universit%C3%A9_de_Strasbourg.svg.png" height="50" alt="Université de Strasbourg" />
+    <img src="https://langues.unistra.fr/fileadmin/upload/langues/images_site/vignette-unistra.png" height="50" alt="Université de Strasbourg" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://duke.edu/">
-    <img src="https://opuscollegeprep.com/wp-content/uploads/2025/04/duke-logo.webp" height="50" alt="Duke University" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Duke_Blue_Devils_logo.svg/200px-Duke_Blue_Devils_logo.svg.png" height="50" alt="Duke University" />
   </a>
 </p>
 
@@ -44,10 +50,24 @@
 <h2 align="center">focus areas</h2>
 
 <p align="center">
-  – agentic analytics <br>
-  – product data science <br> 
-  – explainable AI  <br>
-  – trustworthy AI  <br>
+  – agentic analytics &nbsp;·&nbsp; – product data science &nbsp;·&nbsp; – explainable AI &nbsp;·&nbsp; – trustworthy AI
+</p>
+
+<br/>
+
+<!-- Currently -->
+<h2 align="center">currently</h2>
+
+<p align="center">
+  🔬 &nbsp;<strong>working on</strong> &nbsp;→&nbsp; first agentic analytics project<br/>
+  📖 &nbsp;<strong>learning</strong> &nbsp;→&nbsp; using AI as a force multiplier — prompting, agents, and workflows that 10x output
+</p>
+
+<br/>
+
+<!-- Quote -->
+<p align="center">
+  <em>« le succès, c'est quelques petits efforts répétés chaque jour »</em>
 </p>
 
 <br/>
@@ -78,22 +98,22 @@
   <table>
     <tr>
       <td align="center" width="240">
-        <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-          <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner" />
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">
+          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner" />
         </a>
         <br/><br/>
         <strong>AWS Cloud Practitioner</strong><br/>
         <em>Cloud fundamentals & AWS core services</em><br/><br/>
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify</a>
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify</a>
       </td>
-      <td align="center" width="240">
-        <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
-          <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS AI Practitioner" />
+      <td align="center" width="240" style="padding-left:40px;">
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">
+          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-AI-Practitioner_badge.3b0ade6b4f0374d3ad5ab54a9b7b9aa8b37e2ced.png" width="100" alt="AWS AI Practitioner" />
         </a>
         <br/><br/>
         <strong>AWS AI Practitioner</strong><br/>
         <em>AI/ML & responsible AI on AWS</em><br/><br/>
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify</a>
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify</a>
       </td>
     </tr>
   </table>
@@ -142,6 +162,36 @@
 
 <br/>
 
+<!-- GitHub Stats -->
+<h2 align="center">github stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aghakishiyeva&show_icons=true&theme=transparent&title_color=6DD19C&icon_color=6DD19C&text_color=94FFD4&border_color=6DD19C&hide_border=false" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghakishiyeva&layout=compact&theme=transparent&title_color=6DD19C&text_color=94FFD4&border_color=6DD19C" height="150" />
+</div>
+
+<br/>
+
+<!-- Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aghakishiyeva/aghakishiyeva/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aghakishiyeva/aghakishiyeva/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aghakishiyeva/aghakishiyeva/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Latest Posts -->
+<h2 align="center">latest from substack</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <!-- Languages -->
 <h2 align="center">languages</h2>
 
@@ -151,12 +201,22 @@
 
 <br/>
 
+<!-- Visitor Map -->
+<h2 align="center">visitors</h2>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aghakishiyeva/count.svg" alt="Visitor Count" />
+</div>
+
+<br/>
+
 <!-- Now Playing -->
 <h2 align="center">now playing 🎧</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S">
     <img src="https://img.shields.io/badge/Far%20From%20Any%20Road%20—%20The%20Handsome%20Family-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </div>
 
 <br/><br/>
