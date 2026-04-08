@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science;Agentic+Analytics;Explainable+AI;Trustworthy+AI" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=6DD19C&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/aghakishiyeva?label=Followers&style=flat-square&color=6DD19C" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/aghakishiyeva?label=Stars&style=flat-square&color=6DD19C" />
-</p>
 
 <p align="center">
   <a href="http://linkedin.com/in/aghakishiyeva/">
@@ -26,6 +19,14 @@
   <a href="https://scholar.google.com/citations?hl=en&user=lCgbr1QAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=6DD19C&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/aghakishiyeva?label=Followers&style=flat-square&color=6DD19C" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/aghakishiyeva?label=Stars&style=flat-square&color=6DD19C" />
 </p>
 
 <p align="center">
