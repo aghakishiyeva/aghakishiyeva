@@ -36,6 +36,10 @@
   <img src="https://img.shields.io/badge/open%20to%20work-94FFD4?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/open%20to%20collaborate-94FFD4?style=flat-square&logoColor=white" />
+  &nbsp;
+  <a href="mailto:aghakishiyevag@gmail.com">
+    <img src="https://img.shields.io/badge/email%20me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <br/>
@@ -192,7 +196,7 @@
 <h2 align="center">languages</h2>
 
 <p align="center">
-  Azerbaijani &nbsp;·&nbsp; English &nbsp;·&nbsp; Turkish &nbsp;·&nbsp; French
+  🇦🇿 Azerbaijani &nbsp;·&nbsp; 🇬🇧 English &nbsp;·&nbsp; 🇹🇷 Turkish &nbsp;·&nbsp; 🇫🇷 French
 </p>
 
 <br/>
