@@ -96,18 +96,7 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
 
 ---
 
-## 🎵 Currently Listening To
-
-<div align="center">
-
-**🎙️ Top Artists**
-
-| 🎤 Niall Horan | 🎤 Coldplay | 🎤 Harry Styles | 🎤 Orkhan Zeynalli | 🎤 Portishead |
-|:---:|:---:|:---:|:---:|:---:|
-
-<br/>
-
-**Now Playing 🎧**
+## Now Playing 🎧
 
 ```
 ┌─────────────────────────────────────────────────┐
