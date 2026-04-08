@@ -11,16 +11,19 @@
 </p>
 
 
-## about me
+<h2 align="center">about me</h2>
 
-- **data scientist at core**  
-- building and evaluating systems around data, models, and decisions
+<p align="center">
+  <strong>data scientist at core</strong><br>
+  building and evaluating models that inform product and system decisions
+</p>
 
-## focus areas
+<h2 align="center">focus areas</h2>
 
-- agentic analytics
-- explainable AI  
-- trustworthy AI  
+<p align="center">
+  product data science · explainable AI · trustworthy AI · agentic analytics
+</p>
+
 
 ## 🌐 Connect with Me
 
