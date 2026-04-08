@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:46B47F,50:6DD19C,100:94FFD4&height=120&section=header" width="100%">
 
-<h1 align="center">Hi, I'm Günel Aghakishiyeva&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hi, I'm Günel (gyu-nel)&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=AI+Engineer;Data+Science+at+core;Agentic+Analytics;Explainable+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=46B47F&center=true&vCenter=true&width=500&lines=Data+Science+at+core;Agentic+Analytics;Explainable+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,10 +11,15 @@
 </p>
 
 
-## 🧠 About Me
+## about me
 
-AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Explainable AI**. I build intelligent systems that are not just accurate — but interpretable and trustworthy. Passionate about pushing AI from black-box to glass-box.
+> **data scientist at core**  
+> building and evaluating systems around data, models, and decisions
 
+## interests
+
+> explainable AI  
+> agentic analytics
 
 ## 🌐 Connect with Me
 
