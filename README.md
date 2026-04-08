@@ -11,21 +11,20 @@
 </p>
 
 
-<h2 align="center">about me</h2>
+## about me
 
-<p align="center">
-  <strong>data scientist at core</strong><br>
-  building and evaluating models that inform product and system decisions
-</p>
+**data scientist at core**  
+building and evaluating models that inform product and system decisions
 
-<h2 align="center">focus areas</h2>
+## focus areas
 
-<p align="center">
-  product data science · explainable AI · trustworthy AI · agentic analytics
-</p>
+- agentic analytics
+- product data science
+- explainable AI  
+- trustworthy AI
 
 
-## 🌐 Connect with Me
+## connect with me
 
 <div align="center">
 
@@ -36,7 +35,7 @@
 </div>
 
 
-## 🎓 Certifications
+## certifications
 
 <div align="center">
   <table style="width:60%; table-layout:fixed;">
@@ -64,7 +63,7 @@
 </div>
 
 
-## 🛠️ Tech Stack
+## tech stack
 
 <div align="center">
   <table>
@@ -100,7 +99,7 @@
 </div>
 
 
-## Now Playing 🎧
+## now playing 🎧
 
 ```
 ┌─────────────────────────────────────────────────┐
