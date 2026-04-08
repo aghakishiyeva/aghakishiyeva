@@ -13,6 +13,9 @@
 
 ## about me
 <p align="center">
+  Duke University · M.S. Data Science
+</p>
+<p align="center">
 <strong>data scientist</strong> at core<br>
 building → evaluating → learning → iterating
 </p>
@@ -38,27 +41,25 @@ building → evaluating → learning → iterating
 </div>
 
 
-## certifications
+<h2 align="center">certifications</h2>
 
 <div align="center">
   <table style="width:60%; table-layout:fixed;">
     <tr>
       <td align="center" width="50%">
-        <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">
           <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Cloud Practitioner" />
         </a>
         <br/>
         <strong>AWS Cloud Practitioner</strong><br/>
-        🔗 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">Credential</a><br/>
         <em>Cloud concepts, billing & infrastructure</em>
       </td>
       <td align="center" width="50%">
-        <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">
           <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de57f54a0cf3/image.png" width="120" alt="AWS AI Practitioner" />
         </a>
         <br/>
         <strong>AWS AI Practitioner</strong><br/>
-        🔗 <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">Credential</a><br/>
         <em>AI/ML concepts, responsible AI on AWS</em>
       </td>
     </tr>
@@ -84,7 +85,7 @@ building → evaluating → learning → iterating
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="65" height="65" /><br>scikit-learn
       </td>
       <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" /><br>SQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" /><br>PostgreSQL
       </td>
     </tr>
     <tr>
@@ -93,11 +94,14 @@ building → evaluating → learning → iterating
       </td>
       <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /><br>Docker
-      </td>
+      </td>  
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" /><br>FastAPI
-      </td>
-    </tr>
+      <td align="center" width="100">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="65" height="65" /><br>Claude
+</td>
+      </td>  
+    </tr>  
   </table>
 </div>
 
@@ -116,6 +120,13 @@ building → evaluating → learning → iterating
 </p>
 ```
 
+<h2 align="center">languages</h2>
+
+<p align="center">
+  Azerbaijani · English · Turkish · French
+</p>
+
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94FFD4,50:6DD19C,100:46B47F&height=120&section=footer" width="100%">
