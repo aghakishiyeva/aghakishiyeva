@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://duke.edu/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Duke_Blue_Devils_logo.svg/200px-Duke_Blue_Devils_logo.svg.png" height="50" alt="Duke University" />
+    <img src="https://www.psychdegrees.org/wp-content/uploads/2019/04/duke-university.png" height="50" alt="Duke University" />
   </a>
 </p>
 
