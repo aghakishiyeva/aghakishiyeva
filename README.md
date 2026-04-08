@@ -10,13 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=aghakishiyeva&color=6DD19C&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
----
 
 ## 🧠 About Me
 
 AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Explainable AI**. I build intelligent systems that are not just accurate — but interpretable and trustworthy. Passionate about pushing AI from black-box to glass-box.
 
----
 
 ## 🌐 Connect with Me
 
@@ -28,7 +26,6 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
 
 </div>
 
----
 
 ## 🎓 Certifications
 
@@ -57,7 +54,6 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
   </table>
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -94,7 +90,6 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
   </table>
 </div>
 
----
 
 ## Now Playing 🎧
 
@@ -108,7 +103,5 @@ AI Engineer with a focus on **Data Science**, **Agentic Analytics**, and **Expla
 ```
 
 </div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94FFD4,50:6DD19C,100:46B47F&height=120&section=footer" width="100%">
