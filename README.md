@@ -66,7 +66,7 @@
 
 <h2 align="center">about me</h2>
 
-<!-- UNIVERSITY LOGOS · update href and img src to change schools -->
+<!-- UNIVERSITY LOGOS · update href and img src to change universities -->
 <p align="center">
   <a href="https://www.unistra.fr/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Universit%C3%A9_de_Strasbourg.svg/3840px-Universit%C3%A9_de_Strasbourg.svg.png" height="50" alt="Université de Strasbourg" />
