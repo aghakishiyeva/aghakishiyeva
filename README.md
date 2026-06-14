@@ -142,7 +142,7 @@
         <em>Cloud fundamentals & AWS core services</em><br/><br/>
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify</a>
       </td>
-            <td align="center" width="240">
+      <td align="center" width="240">
         <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
           <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS AI Practitioner" />
         </a>
@@ -157,12 +157,9 @@
         </a>
         <br/><br/>
         <strong>AWS ML Associate</strong><br/>
-        <em>AI/ML & responsible AI on AWS</em><br/><br/>
+        <em>ML engineering, MLOps & model deployment on AWS</em><br/><br/>
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/be94d89bc43b4be0adc2bc819d6a0f90">🔗 Verify</a>
       </td>
-
-
-      
     </tr>
   </table>
 </div>
