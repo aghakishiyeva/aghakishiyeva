@@ -142,7 +142,7 @@
         <em>Cloud fundamentals & AWS core services</em><br/><br/>
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a01122cd5c04382b16c58da9bc62eb0">🔗 Verify</a>
       </td>
-      <td align="center" width="240">
+            <td align="center" width="240">
         <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
           <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS AI Practitioner" />
         </a>
@@ -151,6 +151,18 @@
         <em>AI/ML & responsible AI on AWS</em><br/><br/>
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/01885b11f86c40b69a28dac2c95cc20f">🔗 Verify</a>
       </td>
+      <td align="center" width="240">
+        <a href="https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/">
+          <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="100" alt="AWS ML Associate" />
+        </a>
+        <br/><br/>
+        <strong>AWS ML Associate</strong><br/>
+        <em>AI/ML & responsible AI on AWS</em><br/><br/>
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/be94d89bc43b4be0adc2bc819d6a0f90">🔗 Verify</a>
+      </td>
+
+
+      
     </tr>
   </table>
 </div>
